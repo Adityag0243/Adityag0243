@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Gupta
 - 👀 I’m interested in Competetive Programming ,Data Analysis & Science and Teaching
-- 🌱 I’m currently learning CP , Data Science and Web Development🧑‍💻
+- 🌱 I’m currently learning CP , Data Science Machine Learning and Web Development🧑‍💻
 - 💞️ I’m looking to collaborate for solving various challenging problems in tech in future
 - 📫 How to reach me 📧 mr.adityag123@gmail.com 
 - 😄 Pronouns: Adi🤓
